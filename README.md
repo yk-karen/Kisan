@@ -17,7 +17,7 @@ It connects farmers with local equipment lenders, agricultural labourers,
 storage facilities, e-service centres, and relevant government welfare schemes
 through a simple vernacular-first interface.
 
-### The Problem (that doesn't exist)
+### The Problem 
 Apparently, farmers are expected to know which government scheme they qualify
 for, where the nearest tractor is available, who is ready for agricultural
 work, where storage is available, and how to navigate multiple digital portals
@@ -26,7 +26,7 @@ work, where storage is available, and how to navigate multiple digital portals
 The resources exist. Finding and accessing the right one at the right time is
 the actual challenge.
 
-### The Solution (that nobody asked for)
+### The Solution 
 So we put them together.
 
 Kisan Saathi provides one voice-first platform where farmers can discover
