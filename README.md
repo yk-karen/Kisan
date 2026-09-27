@@ -6,7 +6,7 @@
 
 ### Team Members
 - Team Lead: Sarod V S - GEC Idukki
-- Member 2: Karen Aradh - GEC Idukki
+- Member 1: Karen Aradh - GEC Idukki
 
 ### Project Description
 Kisan Saathi is an AI-assisted, voice-first digital marketplace and e-service
